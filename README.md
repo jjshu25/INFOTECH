@@ -6,7 +6,7 @@
 ![icon](https://github.com/user-attachments/assets/911010a6-7b47-407f-a413-8fcb06770f26)
  
 
-##CPU USAGE DEMO
+## CPU USAGE DEMO
 
 
 
@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/d35e4faa-5f39-437a-aaf1-d1cf8563c9f1
 
 
 
-##GPU USAGE DEMO
+## GPU USAGE DEMO
 
 
 
@@ -37,7 +37,7 @@ https://github.com/user-attachments/assets/224bd385-c93a-4031-93c3-8342d28bd5fc
 
 
 
-##MEMORY USAGE DEMO
+## MEMORY USAGE DEMO
 
 
 
@@ -56,7 +56,7 @@ https://github.com/user-attachments/assets/b8c3699a-b6fa-420d-92e2-1024eb1a3afd
 
 
 
-##STORAGE USAGE DEMO
+## STORAGE USAGE DEMO
 
 
 
