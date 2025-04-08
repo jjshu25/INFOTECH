@@ -1,7 +1,7 @@
 # INFOTECH
 > A Hardware Monitoring Tool designed to keep your computer healthy and performing optimally.
 > A dedicated watchdog, constantly gathering real-time data on the status of your system's essential components.
->[![icon](https://github.com/user-attachments/assets/911010a6-7b47-407f-a413-8fcb06770f26)]
+[![icon](https://github.com/user-attachments/assets/911010a6-7b47-407f-a413-8fcb06770f26)]
  
 
 CPU USAGE DEMO
