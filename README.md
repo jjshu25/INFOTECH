@@ -69,3 +69,17 @@ https://github.com/user-attachments/assets/b8c3699a-b6fa-420d-92e2-1024eb1a3afd
 
 https://github.com/user-attachments/assets/63ff492f-ff9a-4c68-bc96-52197819792b
 
+
+
+
+
+
+
+
+
+# INSTALL
+ https://drive.google.com/file/d/1vUNloLYqFzazFaN3myeui0yQ0YJFmnQ9/view?usp=sharing
+ 1. Download the executable file from the google drive link above.
+ 2. Run the executable file.
+ 3. Test the app.
+ 4. Done.
